@@ -1,0 +1,2 @@
+# terraformAssignments
+Assignments purpose
